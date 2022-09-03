@@ -34,8 +34,8 @@
 </center>
 <center><img src="qrcode_t.me.png" alt="drawing" width="180"/></center>
 
-Документация к приложению доступна на [github](https://github.com/profcomff).
+[Документация к приложению доступна на github](https://github.com/profcomff)
 
-Лицензия: https://github.com/profcomff/timetable-backend/blob/main/LICENSE
+[Лицензия](https://github.com/profcomff/timetable-backend/blob/main/LICENSE)
 
-Группа профкома ВК: [vk](https://vk.com/profcomff)
+[Группа профкома ВК](https://vk.com/profcomff)
