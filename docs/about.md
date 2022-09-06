@@ -2,7 +2,7 @@
 
 Приложение "Твой ФФ!" – проект студентов и выпускников физфака МГУ. Это приложение для студентов и сотрудников физфака, в котором можно найти множество полезных сервисов. Здесь уже доступен просмотр распиисания, бесплатный принтер, схема этажей факультета. В скором времени планируется добавить много нового функционала!
 
-Обратная связь/Оценить приложение: <https://forms.yandex.ru/u/630f979143537dde00621b0b/>
+<img src="feedback.svg" alt="drawing" height="16px"/> [Обратная связь/Оценить приложение](https://forms.yandex.ru/u/630f979143537dde00621b0b)
 
 
 # Команда
@@ -37,7 +37,7 @@
 
 <img src="telegram.svg" alt="drawing" height="16px"/> [Наша группа разработчиков в телеграме](https://t.me/+B4_C52J4UOZiNTAy)
 
-<img src="github.svg" alt="drawing" height="16px"/> [Документация к приложению доступна на github](https://github.com/profcomff)
+<img src="github.svg" alt="drawing" height="16px"/> [Документация к приложению на github](https://github.com/profcomff)
 
 <img src="license.svg" alt="drawing" height="16px"/> [Лицензия](https://github.com/profcomff/timetable-backend/blob/main/LICENSE)
 
