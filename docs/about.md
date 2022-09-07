@@ -35,7 +35,7 @@
 
 <center><a href="https://t.me/+B4_C52J4UOZiNTAy"><img src="assets/viribus_unitis.png" alt="drawing" width="180"/></a></center>
 
-<img src="assets/telegram.svg" alt="drawing" height="16px"/> [Наша группа разработчиков в телеграме](https://t.me/+B4_C52J4UOZiNTAy)
+<img src="assets/telegram.svg" alt="drawing" height="16px"/> [Наш чат разработчиков в телеграме](https://t.me/+B4_C52J4UOZiNTAy)
 
 <img src="assets/github.svg" alt="drawing" height="16px"/> [Документация к приложению на github](https://github.com/profcomff)
 
