@@ -1,7 +1,3 @@
-<link rel="icon" href="[/favicon.ico](https://raw.githubusercontent.com/profcomff/aggregator-app/main/static/favicon.ico)" type="image/x-icon" />
-<link rel="icon" href="https://raw.githubusercontent.com/profcomff/aggregator-app/main/static/favicon.ico" type="image/x-icon" />
-<link rel="shortcut icon" type="image/x-icon" href="https://raw.githubusercontent.com/profcomff/aggregator-app/main/static/favicon.ico">
-
 # Приложение Твой ФФ!
 
 Приложение "Твой ФФ!" – проект студентов и выпускников физфака МГУ. Это приложение для студентов и сотрудников физфака, в котором можно найти множество полезных сервисов. Здесь уже доступен просмотр расписания, бесплатный принтер, схема этажей факультета. В скором времени планируется добавить много нового функционала!
