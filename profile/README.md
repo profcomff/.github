@@ -3,7 +3,7 @@
 Тут мы делаем полезные приложения для физфака и студенческих организаций, храним историю проектов физфака.
 
 ## Полезные ссылки:
-* Хранения общей базы знаний ([wiki](https://github.com/profcomff/general/wiki))
+* [Хранения общей базы знаний (в простонаролье wiki)](https://github.com/profcomff/general/wiki)
 * Управления общими задачами 
     * [Твой ФФ!](https://github.com/orgs/profcomff/projects/7)
     * [Инфра профкома](https://github.com/orgs/profcomff/projects/8)
