@@ -8,11 +8,11 @@
     * Продакшн: app.profcomff.com
 * [Чат ИТ клуба в Telegram] (https://t.me/+eIMtCymYDepmN2Ey)
 * [Discord канал ИТ клуба] (https://discord.gg/W5jS3PfCjD)
-* [Хранения общей базы знаний (wiki)](https://github.com/profcomff/general/wiki)
-* Управления общими задачами 
+* [База знаний (wiki)](https://github.com/profcomff/general/wiki)
+* Управление задачами 
     * [Твой ФФ!](https://github.com/orgs/profcomff/projects/7)
     * [Инфра профкома](https://github.com/orgs/profcomff/projects/8)
-* Сайт Github Pages ([docs](https://github.com/profcomff/general/tree/main/docs), [site](https://pages.profcomff.com/))
+* [Сайт ИТ клуба](https://pages.profcomff.com/)
 
 ## Проекты
 
