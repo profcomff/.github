@@ -4,10 +4,10 @@
 
 ## Полезные ссылки:
 * Приложение Твой ФФ!
-    * Тестовая среда: app.test.profcomff.com
-    * Продакшн: app.profcomff.com
-* [Чат ИТ клуба в Telegram] (https://t.me/+eIMtCymYDepmN2Ey)
-* [Discord канал ИТ клуба] (https://discord.gg/W5jS3PfCjD)
+    * Тестовая среда: [app.test.profcomff.com](https://app.test.profcomff.com)
+    * Продакшн: [app.profcomff.com](https://app.profcomff.com)
+* [Чат ИТ клуба в Telegram](https://t.me/+eIMtCymYDepmN2Ey)
+* [Discord канал ИТ клуба](https://discord.gg/W5jS3PfCjD)
 * [База знаний (wiki)](https://github.com/profcomff/general/wiki)
 * Управление задачами 
     * [Твой ФФ!](https://github.com/orgs/profcomff/projects/7)
