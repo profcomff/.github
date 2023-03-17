@@ -39,6 +39,6 @@
 
 <img src="assets/github.svg" alt="drawing" height="16px"/> <a href="https://github.com/profcomff" target="_blank">Документация к приложению на github</a>
 
-<img src="assets/license.svg" alt="drawing" height="16px"/> <a href="https://github.com/profcomff/timetable-backend/blob/main/LICENSE">Лицензия</a>
+<img src="assets/license.svg" alt="drawing" height="16px"/> <a href="https://github.com/profcomff/timetable-backend/blob/main/LICENSE" target="_blank">Лицензия</a>
 
-<img src="assets/vk.svg" alt="drawing" height="16px"/> <a href="https://vk.com/profcomff">Группа профкома ВК</a>
+<img src="assets/vk.svg" alt="drawing" height="16px"/> <a href="https://vk.com/profcomff" target="_blank">Группа профкома ВК</a>
