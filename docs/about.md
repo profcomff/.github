@@ -33,7 +33,7 @@
 
 Хочешь писать новые фичи, фиксить баги и шутить про упавшие сервера? Тогда ждем в нашем клубе айтишников, будем разрабатывать вместе ;)
 
-<center><a href="https://t.me/+B4_C52J4UOZiNTAy" target="_blank"><img src="assets/viribus_unitis.png" alt="drawing" width="180"/></a></center>
+<div style="text-align: center;"><a href="https://t.me/+B4_C52J4UOZiNTAy" target="_blank"><img src="assets/viribus_unitis.svg" alt="drawing" width="180"/></a></div>
 
 <img src="assets/telegram.svg" alt="drawing" height="16px"/> <a href="https://t.me/+B4_C52J4UOZiNTAy" target="_blank">Наш чат разработчиков в телеграме</a>
 
