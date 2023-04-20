@@ -33,9 +33,9 @@
 [Бесплатный принтер физфака](https://to.profcomff.com/print)
 
 [![](https://img.shields.io/github/stars/profcomff/print-webapp?color=blue&label=print-webapp&logo=javascript&logoColor=blue&style=for-the-badge)](https://github.com/profcomff/print-webapp)
+[![](https://img.shields.io/github/stars/profcomff/print-winapp?color=red&label=print-winapp&logo=csharp&logoColor=red&style=for-the-badge)](https://github.com/profcomff/print-winapp)
 [![](https://img.shields.io/github/stars/profcomff/print-api?color=green&label=print-api&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/print-api)
 [![](https://img.shields.io/github/stars/profcomff/converter-api?color=green&label=converter-api&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/converter-api)
-[![](https://img.shields.io/github/stars/profcomff/print-winapp?color=green&label=print-winapp&logo=csharp&logoColor=green&style=for-the-badge)](https://github.com/profcomff/print-winapp)
 [![](https://img.shields.io/github/stars/profcomff/print-vkbot?color=green&label=print-vkbot&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/print-vkbot)
 [![](https://img.shields.io/github/stars/profcomff/print-tgbot?color=green&label=print-tgbot&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/print-tgbot)
 
