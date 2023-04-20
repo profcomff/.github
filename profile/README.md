@@ -30,7 +30,7 @@
 
 
 [<img alt="Твой ФФ" width="30px" src="https://cdn.profcomff.com/app/menu_icons/printer.svg" />](https://to.profcomff.com/print)
-[Беслатный принтер физфака](https://to.profcomff.com/print)
+[Бесплатный принтер физфака](https://to.profcomff.com/print)
 
 [![](https://img.shields.io/github/stars/profcomff/print-webapp?color=blue&label=print-webapp&logo=javascript&logoColor=blue&style=for-the-badge)](https://github.com/profcomff/print-webapp)
 [![](https://img.shields.io/github/stars/profcomff/print-api?color=green&label=print-api&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/print-api)
