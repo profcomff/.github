@@ -24,7 +24,6 @@
 [![](https://img.shields.io/github/stars/profcomff/timetable-api?color=green&label=timetable-api&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/timetable-api)
 [![](https://img.shields.io/github/stars/profcomff/marketing-api?color=green&label=marketing-api&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/marketing-api)
 [![](https://img.shields.io/github/stars/profcomff/cicd-api?color=green&label=cicd-api&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/cicd-api)
-[![](https://img.shields.io/github/stars/profcomff/social-api?color=green&label=social-api&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/social-api)
 [![](https://img.shields.io/github/stars/profcomff/auth-api?color=green&label=auth-api&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/auth-api)
 [![](https://img.shields.io/github/stars/profcomff/userdata-api?color=green&label=userdata-api&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/userdata-api)
 
@@ -44,6 +43,7 @@
 
 [![](https://img.shields.io/github/stars/profcomff/issue-github-tgbot?color=green&label=github-tgbot&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/issue-github-tgbot)
 [![](https://img.shields.io/github/stars/profcomff/aciniformes-project?color=green&label=aciniformes-project&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/aciniformes-project)
+[![](https://img.shields.io/github/stars/profcomff/social-api?color=green&label=social-api&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/social-api)
 
 
 #### Библиотеки и компоненты
