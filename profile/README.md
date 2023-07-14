@@ -18,7 +18,8 @@
 
 
 
-## Проекты
+## Проекты <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/profcomff?labelColor=%2300bd61&color=%2300bd61">
+
 
 [<img alt="Твой ФФ" width="25px" src="https://cdn.profcomff.com/app/logo/logo_ff.svg" />](https://app.profcomff.com)
 [Приложение "Твой ФФ"](https://app.profcomff.com)
