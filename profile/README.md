@@ -30,7 +30,7 @@
 [<img alt="Твой ФФ" width="30px" src="https://cdn.profcomff.com/app/menu_icons/printer.svg" />](https://to.profcomff.com/print)
 [Бесплатный принтер физфака](https://to.profcomff.com/print)
 
-[![](https://img.shields.io/github/stars/profcomff/print-webapp?color=blue&label=print-webapp&logo=javascript&logoColor=blue&style=for-the-badge)](https://github.com/profcomff/print-webapp)
+[![](https://img.shields.io/github/stars/profcomff/print-webapp?color=yellow&label=print-webapp&logo=javascript&logoColor=yellow&style=for-the-badge)](https://github.com/profcomff/print-webapp)
 [![](https://img.shields.io/github/stars/profcomff/print-winapp?color=red&label=print-winapp&logo=csharp&logoColor=red&style=for-the-badge)](https://github.com/profcomff/print-winapp)
 [![](https://img.shields.io/github/stars/profcomff/print-api?color=green&label=print-api&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/print-api)
 [![](https://img.shields.io/github/stars/profcomff/converter-api?color=green&label=converter-api&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/converter-api)
@@ -41,8 +41,6 @@
 
 [![](https://img.shields.io/github/stars/profcomff/fastapi-template?color=green&label=fastapi-template&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/fastapi-template)
 [![](https://img.shields.io/github/stars/profcomff/ui-common?color=blue&label=ui-common&logo=typescript&logoColor=blue&style=for-the-badge)](https://github.com/profcomff/ui-common)
-[![](https://img.shields.io/github/stars/profcomff/auth-weblib?color=blue&label=auth-weblib&logo=typescript&logoColor=blue&style=for-the-badge)](https://github.com/profcomff/auth-weblib)
-[![](https://img.shields.io/github/stars/profcomff/marketing-weblib?color=blue&label=marketing-weblib&logo=javascript&logoColor=blue&style=for-the-badge)](https://github.com/profcomff/marketing-weblib)
 [![](https://img.shields.io/github/stars/profcomff/logging-lib?color=green&label=logging-lib&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/logging-lib)
 [![](https://img.shields.io/github/stars/profcomff/auth-lib?color=green&label=auth-lib&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/auth-lib)
 [![](https://img.shields.io/github/stars/profcomff/redirect-ci?color=green&label=redirect-ci&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/redirect-ci)
@@ -58,3 +56,5 @@
 
 #### В начальной стадии разработки
 [![](https://img.shields.io/github/stars/profcomff/rating-api?color=green&label=rating-api&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/rating-api)
+[![](https://img.shields.io/github/stars/profcomff/marketing-weblib?color=yellow&label=marketing-weblib&logo=javascript&logoColor=yellow&style=for-the-badge)](https://github.com/profcomff/marketing-weblib)
+[![](https://img.shields.io/github/stars/profcomff/auth-weblib?color=blue&label=auth-weblib&logo=typescript&logoColor=blue&style=for-the-badge)](https://github.com/profcomff/auth-weblib)
