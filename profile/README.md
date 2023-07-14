@@ -4,19 +4,23 @@
 
 ## Полезные ссылки:
 * 📱 Приложение Твой ФФ!
-    * Тестовая среда: [app.test.profcomff.com](https://app.test.profcomff.com)
     * Продакшн: [app.profcomff.com](https://app.profcomff.com)
-* 💬 [Чат ИТ клуба в Telegram](https://t.me/+eIMtCymYDepmN2Ey)
-* 🎙 [Discord канал ИТ клуба](https://discord.gg/W5jS3PfCjD)
+    * Тестовая среда: [app.test.profcomff.com](https://app.test.profcomff.com)
+    ![]()
+*  [<img alt="Telegram" height="14px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"/>](https://t.me/+eIMtCymYDepmN2Ey) [Чат ИТ клуба в Telegram](https://t.me/+eIMtCymYDepmN2Ey)
+* [<img alt="Discord" height="14px" src="https://www.svgrepo.com/show/353655/discord-icon.svg"/>](https://discord.gg/W5jS3PfCjD) [Discord канал ИТ клуба](https://discord.gg/W5jS3PfCjD)
+* [<img alt="Figma" height="14px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"/>](https://to.profcomff.com/app-figma) [Figma Твой ФФ!](https://to.profcomff.com/app-figma)
 * 📖 [База знаний (wiki)](https://github.com/profcomff/general/wiki)
 * 📈 Управление задачами 
     * [Твой ФФ!](https://github.com/orgs/profcomff/projects/7)
     * [Инфраструктура профкома](https://github.com/orgs/profcomff/projects/8)
 
 
+
+
 ## Проекты
 
-[<img alt="Твой ФФ" width="30px" src="https://cdn.profcomff.com/app/logo/logo_ff.svg" />](https://app.profcomff.com)
+[<img alt="Твой ФФ" width="25px" src="https://cdn.profcomff.com/app/logo/logo_ff.svg" />](https://app.profcomff.com)
 [Приложение "Твой ФФ"](https://app.profcomff.com)
 
 [![](https://img.shields.io/github/stars/profcomff/webapp-ui?color=blue&label=webapp-ui&logo=typescript&logoColor=blue&style=for-the-badge)](https://github.com/profcomff/webapp-ui)
@@ -27,7 +31,7 @@
 [![](https://img.shields.io/github/stars/profcomff/userdata-api?color=green&label=userdata-api&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/userdata-api)
 
 
-[<img alt="Твой ФФ" width="30px" src="https://cdn.profcomff.com/app/menu_icons/printer.svg" />](https://to.profcomff.com/print)
+[<img alt="Твой ФФ" width="25px" src="https://cdn.profcomff.com/app/menu_icons/printer.svg" />](https://to.profcomff.com/print)
 [Бесплатный принтер физфака](https://to.profcomff.com/print)
 
 [![](https://img.shields.io/github/stars/profcomff/print-webapp?color=yellow&label=print-webapp&logo=javascript&logoColor=yellow&style=for-the-badge)](https://github.com/profcomff/print-webapp)
