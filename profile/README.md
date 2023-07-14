@@ -45,7 +45,7 @@
 [![](https://img.shields.io/github/stars/profcomff/marketing-weblib?color=blue&label=marketing-weblib&logo=javascript&logoColor=blue&style=for-the-badge)](https://github.com/profcomff/marketing-weblib)
 [![](https://img.shields.io/github/stars/profcomff/logging-lib?color=green&label=logging-lib&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/logging-lib)
 [![](https://img.shields.io/github/stars/profcomff/auth-lib?color=green&label=auth-lib&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/auth-lib)
-[![](https://github.com/profcomff/redirect-ci?color=green&label=redirect-ci&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/redirect-ci)
+[![](https://img.shields.io/github/stars/profcomff/redirect-ci?color=green&label=redirect-ci&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/redirect-ci)
 
 #### Вспомогательные и внутренние проекты
 
