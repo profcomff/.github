@@ -46,6 +46,7 @@
 [![](https://img.shields.io/github/stars/profcomff/logging-lib?color=green&label=logging-lib&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/logging-lib)
 [![](https://img.shields.io/github/stars/profcomff/auth-lib?color=green&label=auth-lib&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/auth-lib)
 [![](https://img.shields.io/github/stars/profcomff/redirect-ci?color=green&label=redirect-ci&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/redirect-ci)
+[![](https://img.shields.io/github/stars/profcomff/preparation-timetable-data?color=green&label=preparation-timetable-data&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/preparation-timetable-data)
 
 #### Вспомогательные и внутренние проекты
 
@@ -53,6 +54,7 @@
 [![](https://img.shields.io/github/stars/profcomff/aciniformes-project?color=green&label=aciniformes-project&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/aciniformes-project)
 [![](https://img.shields.io/github/stars/profcomff/social-api?color=green&label=social-api&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/social-api)
 [![](https://img.shields.io/github/stars/profcomff/cicd-api?color=green&label=cicd-api&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/cicd-api)
+[![](https://img.shields.io/github/stars/profcomff/dwh-pipelines?color=green&label=dwh-pipelines&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/dwh-pipelines)
 
-
-
+#### В начальной стадии разработки
+[![](https://img.shields.io/github/stars/profcomff/rating-api?color=green&label=rating-api&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/rating-api)
