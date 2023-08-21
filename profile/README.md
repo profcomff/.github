@@ -40,7 +40,6 @@
 
 #### Библиотеки и компоненты
 
-[![](https://img.shields.io/github/stars/profcomff/fastapi-template?color=green&label=fastapi-template&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/fastapi-template)
 [![](https://img.shields.io/github/stars/profcomff/ui-common?color=blue&label=ui-common&logo=typescript&logoColor=blue&style=for-the-badge)](https://github.com/profcomff/ui-common)
 [![](https://img.shields.io/github/stars/profcomff/logging-lib?color=green&label=logging-lib&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/logging-lib)
 [![](https://img.shields.io/github/stars/profcomff/auth-lib?color=green&label=auth-lib&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/auth-lib)
@@ -54,6 +53,7 @@
 [![](https://img.shields.io/github/stars/profcomff/social-api?color=green&label=social-api&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/social-api)
 [![](https://img.shields.io/github/stars/profcomff/cicd-api?color=green&label=cicd-api&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/cicd-api)
 [![](https://img.shields.io/github/stars/profcomff/dwh-pipelines?color=green&label=dwh-pipelines&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/dwh-pipelines)
+[![](https://img.shields.io/github/stars/profcomff/fastapi-template?color=green&label=fastapi-template&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/fastapi-template)
 
 #### В начальной стадии разработки
 [![](https://img.shields.io/github/stars/profcomff/rating-api?color=green&label=rating-api&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/rating-api)
