@@ -60,7 +60,8 @@
 [![](https://img.shields.io/github/stars/profcomff/marketing-uilib?color=yellow&label=marketing-uilib&logo=vuedotjs&logoColor=yellow&style=for-the-badge)](https://github.com/profcomff/marketing-uilib)
 [![](https://img.shields.io/github/stars/profcomff/auth-weblib?color=blue&label=auth-weblib&logo=typescript&logoColor=blue&style=for-the-badge)](https://github.com/profcomff/auth-weblib)
 
-#### Сейчас приберусь
+#### Технические репозитории
+[![](https://img.shields.io/github/stars/profcomff/.github?color=black&label=.github&logo=markdown&logoColor=black&style=for-the-badge)](https://github.com/profcomff/.github)
 [![](https://img.shields.io/github/stars/profcomff/dwh-definitions?color=green&label=dwh-definitions&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/dwh-definitions)
 [![](https://img.shields.io/github/stars/profcomff/floormap-ui?color=yellow&label=floormap-ui&logo=vuedotjs&logoColor=yellow&style=for-the-badge)](https://github.com/profcomff/floormap-ui)
 [![](https://img.shields.io/github/stars/profcomff/payments-webapp?color=yellow&label=payments-webapp&logo=vuedotjs&logoColor=yellow&style=for-the-badge)](https://github.com/profcomff/payments-webapp)
