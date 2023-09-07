@@ -57,5 +57,5 @@
 
 #### В начальной стадии разработки
 [![](https://img.shields.io/github/stars/profcomff/rating-api?color=green&label=rating-api&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/rating-api)
-[![](https://img.shields.io/github/stars/profcomff/marketing-weblib?color=yellow&label=marketing-weblib&logo=javascript&logoColor=yellow&style=for-the-badge)](https://github.com/profcomff/marketing-weblib)
+[![](https://img.shields.io/github/stars/profcomff/marketing-uilib?color=yellow&label=marketing-uilib&logo=javascript&logoColor=yellow&style=for-the-badge)](https://github.com/profcomff/marketing-uilib)
 [![](https://img.shields.io/github/stars/profcomff/auth-weblib?color=blue&label=auth-weblib&logo=typescript&logoColor=blue&style=for-the-badge)](https://github.com/profcomff/auth-weblib)
