@@ -57,13 +57,13 @@
 
 #### В начальной стадии разработки
 [![](https://img.shields.io/github/stars/profcomff/rating-api?color=green&label=rating-api&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/rating-api)
-[![](https://img.shields.io/github/stars/profcomff/marketing-uilib?color=yellow&label=marketing-uilib&logo=javascript&logoColor=yellow&style=for-the-badge)](https://github.com/profcomff/marketing-uilib)
+[![](https://img.shields.io/github/stars/profcomff/marketing-uilib?color=yellow&label=marketing-uilib&logo=vuedotjs&logoColor=yellow&style=for-the-badge)](https://github.com/profcomff/marketing-uilib)
 [![](https://img.shields.io/github/stars/profcomff/auth-weblib?color=blue&label=auth-weblib&logo=typescript&logoColor=blue&style=for-the-badge)](https://github.com/profcomff/auth-weblib)
 
 #### Сейчас приберусь
 [![](https://img.shields.io/github/stars/profcomff/dwh-definitions?color=green&label=dwh-definitions&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/dwh-definitions)
-[![](https://img.shields.io/github/stars/profcomff/floormap-ui?color=blue&label=floormap-ui&logo=typescript&logoColor=blue&style=for-the-badge)](https://github.com/profcomff/floormap-ui)
-[![](https://img.shields.io/github/stars/profcomff/payments-webapp?color=blue&label=payments-webapp&logo=vuedotjs&logoColor=blue&style=for-the-badge)](https://github.com/profcomff/payments-webapp)
+[![](https://img.shields.io/github/stars/profcomff/floormap-ui?color=yellow&label=floormap-ui&logo=vuedotjs&logoColor=yellow&style=for-the-badge)](https://github.com/profcomff/floormap-ui)
+[![](https://img.shields.io/github/stars/profcomff/payments-webapp?color=yellow&label=payments-webapp&logo=vuedotjs&logoColor=yellow&style=for-the-badge)](https://github.com/profcomff/payments-webapp)
 [![](https://img.shields.io/github/stars/profcomff/dwh-airflow?color=black&label=dwh-airflow&logo=gnubash&logoColor=black&style=for-the-badge)](https://github.com/profcomff/dwh-airflow)
 [![](https://img.shields.io/github/stars/profcomff/db-kafka?color=black&label=db-kafka&logo=gnubash&logoColor=black&style=for-the-badge)](https://github.com/profcomff/db-kafka)
 [![](https://img.shields.io/github/stars/profcomff/achievement-api?color=green&label=achievement-api&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/achievement-api)
