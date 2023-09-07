@@ -40,7 +40,7 @@
 
 #### Библиотеки и компоненты
 
-[![](https://img.shields.io/github/stars/profcomff/ui-common?color=blue&label=ui-common&logo=typescript&logoColor=blue&style=for-the-badge)](https://github.com/profcomff/ui-common)
+[![](https://img.shields.io/github/stars/profcomff/user-uilib?color=blue&label=user-uilib&logo=typescript&logoColor=blue&style=for-the-badge)](https://github.com/profcomff/user-uilib)
 [![](https://img.shields.io/github/stars/profcomff/logging-lib?color=green&label=logging-lib&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/logging-lib)
 [![](https://img.shields.io/github/stars/profcomff/auth-lib?color=green&label=auth-lib&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/auth-lib)
 [![](https://img.shields.io/github/stars/profcomff/redirect-ci?color=green&label=redirect-ci&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/redirect-ci)
