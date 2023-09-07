@@ -31,7 +31,7 @@
 [<img alt="Твой ФФ" width="25px" src="https://cdn.profcomff.com/app/menu_icons/printer.svg" />](https://to.profcomff.com/print)
 [Бесплатный принтер физфака](https://to.profcomff.com/print)
 
-[![](https://img.shields.io/github/stars/profcomff/print-webapp?color=yellow&label=print-webapp&logo=javascript&logoColor=yellow&style=for-the-badge)](https://github.com/profcomff/print-webapp)
+[![](https://img.shields.io/github/stars/profcomff/print-webapp?color=yellow&label=print-webapp&logo=vuedotjs&logoColor=yellow&style=for-the-badge)](https://github.com/profcomff/print-webapp)
 [![](https://img.shields.io/github/stars/profcomff/print-winapp?color=red&label=print-winapp&logo=csharp&logoColor=red&style=for-the-badge)](https://github.com/profcomff/print-winapp)
 [![](https://img.shields.io/github/stars/profcomff/print-api?color=green&label=print-api&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/print-api)
 [![](https://img.shields.io/github/stars/profcomff/converter-api?color=green&label=converter-api&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/converter-api)
@@ -63,8 +63,8 @@
 #### Сейчас приберусь
 [![](https://img.shields.io/github/stars/profcomff/dwh-definitions?color=green&label=dwh-definitions&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/dwh-definitions)
 [![](https://img.shields.io/github/stars/profcomff/floormap-ui?color=blue&label=floormap-ui&logo=typescript&logoColor=blue&style=for-the-badge)](https://github.com/profcomff/floormap-ui)
-[![](https://img.shields.io/github/stars/profcomff/payments-webapp?color=blue&label=payments-webapp&logo=typescript&logoColor=blue&style=for-the-badge)](https://github.com/profcomff/payments-webapp)
-[![](https://img.shields.io/github/stars/profcomff/dwh-airflow?color=gray&label=dwh-airflow&logo=shell&logoColor=gray&style=for-the-badge)](https://github.com/profcomff/dwh-airflow)
-[![](https://img.shields.io/github/stars/profcomff/db-kafka?color=gray&label=db-kafka&logo=makefile&logoColor=gray&style=for-the-badge)](https://github.com/profcomff/db-kafka)
+[![](https://img.shields.io/github/stars/profcomff/payments-webapp?color=blue&label=payments-webapp&logo=vuedotjs&logoColor=blue&style=for-the-badge)](https://github.com/profcomff/payments-webapp)
+[![](https://img.shields.io/github/stars/profcomff/dwh-airflow?color=black&label=dwh-airflow&logo=gnubash&logoColor=black&style=for-the-badge)](https://github.com/profcomff/dwh-airflow)
+[![](https://img.shields.io/github/stars/profcomff/db-kafka?color=black&label=db-kafka&logo=gnubash&logoColor=black&style=for-the-badge)](https://github.com/profcomff/db-kafka)
 [![](https://img.shields.io/github/stars/profcomff/achievement-api?color=green&label=achievement-api&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/achievement-api)
 [![](https://img.shields.io/github/stars/profcomff/event-schema?color=green&label=event-schema&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/event-schema)
