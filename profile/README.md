@@ -59,3 +59,12 @@
 [![](https://img.shields.io/github/stars/profcomff/rating-api?color=green&label=rating-api&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/rating-api)
 [![](https://img.shields.io/github/stars/profcomff/marketing-uilib?color=yellow&label=marketing-uilib&logo=javascript&logoColor=yellow&style=for-the-badge)](https://github.com/profcomff/marketing-uilib)
 [![](https://img.shields.io/github/stars/profcomff/auth-weblib?color=blue&label=auth-weblib&logo=typescript&logoColor=blue&style=for-the-badge)](https://github.com/profcomff/auth-weblib)
+
+#### Сейчас приберусь
+[![](https://img.shields.io/github/stars/profcomff/dwh-definitions?color=blue&label=dwh-definitions&logo=python&logoColor=blue&style=for-the-badge)](https://github.com/profcomff/dwh-definitions)
+[![](https://img.shields.io/github/stars/profcomff/floormap-ui?color=blue&label=floormap-ui&logo=vue&logoColor=blue&style=for-the-badge)](https://github.com/profcomff/floormap-ui)
+[![](https://img.shields.io/github/stars/profcomff/payments-webapp?color=blue&label=payments-webapp&logo=typescript&logoColor=blue&style=for-the-badge)](https://github.com/profcomff/payments-webapp)
+[![](https://img.shields.io/github/stars/profcomff/dwh-airflow?color=blue&label=dwh-airflow&logo=shell&logoColor=blue&style=for-the-badge)](https://github.com/profcomff/dwh-airflow)
+[![](https://img.shields.io/github/stars/profcomff/db-kafka?color=blue&label=db-kafka&logo=makefile&logoColor=blue&style=for-the-badge)](https://github.com/profcomff/db-kafka)
+[![](https://img.shields.io/github/stars/profcomff/achievement-api?color=blue&label=achievement-api&logo=python&logoColor=blue&style=for-the-badge)](https://github.com/profcomff/achievement-api)
+[![](https://img.shields.io/github/stars/profcomff/event-schema?color=blue&label=event-schema&logo=python&logoColor=blue&style=for-the-badge)](https://github.com/profcomff/event-schema)
