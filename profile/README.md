@@ -68,10 +68,9 @@
 
 
 #### В начальной стадии разработки
-
 [![](https://img.shields.io/github/stars/profcomff/rating-api?color=green&label=rating-api&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/rating-api)
 [![](https://img.shields.io/github/stars/profcomff/marketing-uilib?color=yellow&label=marketing-uilib&logo=vuedotjs&logoColor=yellow&style=for-the-badge)](https://github.com/profcomff/marketing-uilib)
 [![](https://img.shields.io/github/stars/profcomff/auth-weblib?color=blue&label=auth-weblib&logo=typescript&logoColor=blue&style=for-the-badge)](https://github.com/profcomff/auth-weblib)
 [![](https://img.shields.io/github/stars/profcomff/user-uilib?color=blue&label=user-uilib&logo=typescript&logoColor=blue&style=for-the-badge)](https://github.com/profcomff/user-uilib)
 [![](https://img.shields.io/github/stars/profcomff/floormap-ui?color=yellow&label=floormap-ui&logo=vuedotjs&logoColor=yellow&style=for-the-badge)](https://github.com/profcomff/floormap-ui)
-[![](https://img.shields.io/github/stars/profcomff/payments-webapp?color=yellow&label=payments-webapp&logo=vuedotjs&logoColor=yellow&style=for-the-badge)](https://github.com/profcomff/payments-webapp)
+[![](https://img.shields.io/github/stars/profcomff/calculator-ui?color=yellow&label=calculator-ui&logo=vuedotjs&logoColor=yellow&style=for-the-badge)](https://github.com/profcomff/calculator-ui)
