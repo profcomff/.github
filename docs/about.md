@@ -41,7 +41,6 @@
 
 🐈 Морозов Артем
 
-
 ## Присоединяйся к команде разработчиков!
 
 Хочешь писать новые фичи, фиксить баги и шутить про упавшие сервера? Тогда ждем в нашем клубе айтишников, будем разрабатывать вместе ;)
@@ -51,6 +50,8 @@
 <img src="assets/telegram.svg" alt="drawing" height="16px"/> <a href="https://t.me/+B4_C52J4UOZiNTAy" target="_blank">Наш чат разработчиков в телеграме</a>
 
 <img src="assets/github.svg" alt="drawing" height="16px"/> <a href="https://github.com/profcomff" target="_blank">Документация к приложению на github</a>
+
+<img src="assets/privacy-policy-icon.svg" alt="drawing" height="16px"/> <a href="https://pages.profcomff.com/tvoy_ff_privacy_policy" target="_blank">Политика обработки персональных данных</a>
 
 <img src="assets/license.svg" alt="drawing" height="16px"/> <a href="https://github.com/profcomff/timetable-backend/blob/main/LICENSE" target="_blank">Лицензия</a>
 
