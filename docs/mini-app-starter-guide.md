@@ -32,55 +32,112 @@
     
     - Если вы пользователь Windows и создали на рабочем столе папку my_app, то команда будет выглядеть так:  
 
-        ```cd %userprofile%/Desktop/my\_app```
+        ```bash
+      cd %userprofile%/Desktop/my_app
+        ```
 
     - Если вы пользователь Linux или MacOS и создали на рабочем столе папку my_app, то команда будет выглядеть следующим образом: 
         
-        ```cd ~/Desktop/my_app```
+        ```bash
+      cd ~/Desktop/my_app
+        ```
 
     Ниже приведен пример перехода в папку приложения в ОП Windows.
 
-1. Склонируйте код репозитория к себе на ПК командой ```git clone https://github.com/profcomff/app-template.git .``` (точка в конце означает скачивание кода в текущую папку). Если вы выполнили пункт 1 используйте в команде ссылку из зеленой кнопки "Code" в правом верхнем углу вашего репозитория. 
+1. Склонируйте код репозитория к себе на ПК командой
+   ```shell
+   git clone https://github.com/profcomff/app-template.git .
+   ```
+   (точка в конце означает скачивание кода в текущую папку). Если вы выполнили пункт 1 используйте в команде ссылку из зеленой кнопки "Code" в правом верхнем углу вашего репозитория. 
 
-1. Откройте код в удобной среде разработки. Рекомендуем использовать VSCode, который можно открыть из терминала командой ```code```.
+1. Откройте код в удобной среде разработки. Рекомендуем использовать VSCode, который можно открыть из терминала командой
+   ```bash
+   code .
+   ```
 
 1. Сборка исходного кода в один пакет производится с помощью Docker. В этом случае создается независимый от операционной системы пакет, который можно без проблем разместить на любом сервере. 
 
-    Выполните команду make для сборки приложения. После окончания выполнения этой команды будет создан новый Docker образ с названием my_app, который можно запустить командой ```make run```
+    Выполните команду make для сборки приложения. После окончания выполнения этой команды будет создан новый Docker образ с названием my_app, который можно запустить командой
+   ```make
+   make run
+   ```
 
     - Сборка приложения
-
-
+   ```shell
+    C:\Users\user\Desktop\my_app> make
+    docker compose --file ./cicd/docker-compose.yml build
+    [+] Building 4.8s (11/25)
+   ```
     - Запуск Docker-образа приложения
+   ```shell
+    C:\Users\user\Desktop\my_app> make run
+    docker compose --file ./cicd/docker-compose.yml down
+    docker compose --file ./cicd/docker-compose.yml up --detach
+   
+    - Network cicd_default      Created
+    - Container cicd-app-1      Started
+    - Container cicd-database-1 Started
+   ```
 
 1. Чтобы запустить приложение, для начала нужно установить необходимые библиотеки и компоненты.
 
     **Windows**
 
-    - Перейдите в папку backend, используя команду ```cd backend```
-    - Затем выполните команду ```python -m venv venv``` для создания виртуального окружения для python
-    - После этого активируйте виртуальное окружение командой ```venv/Scripts/activate```
+    - Перейдите в папку backend, используя команду
+      ```bash
+      cd backend
+      ```
+    - Затем выполните команду
+      ```bash
+      python -m venv venv
+      ```
+      для создания виртуального окружения для python
+      ```shell
+      C:\Users\user\Desktop\my_app> cd .\backend\
+      C:\Users\user\Desktop\my_app\backend> python -m venv venv
+      ```
+    - После этого активируйте виртуальное окружение командой
+      ```bash
+      venv/Scripts/activate
+      ```
+
+      ```shell
+      C:\Users\user\Desktop\my_app\backend> .\venv\Scripts\activate
+      (venv) C:\Users\user\Desktop\my_app\backend>
+      ```
 
 
     - Выполните установку всех необходимых библиотек для бэкенда приложения, используя команду 
 
-      ```pip install -r requirements.dev.txt -r requirements.txt```
+      ```bash
+      pip install -r requirements.dev.txt -r requirements.txt
+      ```
 
     - Перейдите в папку фронтенда, используя команды:
 
-      ```cd .. ```
-
-      ```cd frontend```
-
+      ```bash
+      (venv) PS C:\Users\user\Desktop\my_app\backend> cd ..
+      (venv) PS C:\Users\user\Desktop\my_app> cd frontend
+      (venv) PS C:\Users\user\Desktop\my_app\frontend>
+      ```
+      
     - Установите необходимые компоненты для фронтенда командой 
 
-      ```npm install```
+      ```bash
+      npm install
+      ```
 
     **Linux или MacOS:**
 
-    - Установите необходимые компоненты и библиотеки командой ```make configure```
+    - Установите необходимые компоненты и библиотеки командой
+      ```bash
+      make configure
+      ```
 
-1. Запустите приложение командой ```npm run dev```
+1. Запустите приложение командой
+   ```bash
+   npm run dev
+   ```
 
 1. Перейдите по ссылке из строки Local: <http://localhost:5173/> и наслаждайтесь результатом!
 
