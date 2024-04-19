@@ -21,11 +21,11 @@
 Ниже описаны фундаментальные детали, которые вам необходимо понимать.
 
 ## Важные ссылки
-- Quick Start Guide (эта инструкция): https://pages.profcomff.com/mini-app-starter-guide
-- Тестовый контур Твой ФФ: https://app.test.profcomff.com/
-- Описание всех API Твой ФФ: https://api.test.profcomff.com/
-- Форма создания приложения в тестовом контуре: https://forms.yandex.ru/cloud/64b41d64693872c708de0803/
-- Шаблон сервиса: https://github.com/profcomff/app-template
+- Quick Start Guide (эта инструкция): <https://pages.profcomff.com/mini-app-starter-guide>
+- Тестовый контур Твой ФФ: <https://app.test.profcomff.com/>
+- Описание всех API Твой ФФ: <https://api.test.profcomff.com/>
+- Форма создания приложения в тестовом контуре: <https://forms.yandex.ru/cloud/64b41d64693872c708de0803/>
+- Шаблон сервиса: <https://github.com/profcomff/app-template>
 
 ## Основные понятия
 
