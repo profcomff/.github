@@ -7,9 +7,9 @@
     * Продакшн: [app.profcomff.com](https://app.profcomff.com)
     * Тестовая среда: [app.test.profcomff.com](https://app.test.profcomff.com)
     ![]()
-*  [<img alt="Telegram" height="14px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"/>](https://t.me/+eIMtCymYDepmN2Ey) [Чат ИТ клуба в Telegram](https://t.me/+eIMtCymYDepmN2Ey)
-* [<img alt="Discord" height="14px" src="https://www.svgrepo.com/show/353655/discord-icon.svg"/>](https://discord.gg/W5jS3PfCjD) [Discord канал ИТ клуба](https://discord.gg/W5jS3PfCjD)
-* [<img alt="Figma" height="14px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"/>](https://to.profcomff.com/app-figma) [Figma Твой ФФ!](https://to.profcomff.com/app-figma)
+*  [<img alt="Telegram" height="14px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"/>](https://t.me/+eIMtCymYDepmN2Ey) [Суперчат ИТ клуба в Telegram](https://t.me/+eIMtCymYDepmN2Ey)
+* [<img alt="Discord" height="14px" src="https://www.svgrepo.com/show/353655/discord-icon.svg"/>](https://discord.gg/W5jS3PfCjD) [Discord сервер ИТ клуба](https://discord.gg/W5jS3PfCjD)
+* [<img alt="Figma" height="14px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"/>](https://to.profcomff.com/app-figma) [Figma Viribus Team](https://to.profcomff.com/app-figma)
 * 📖 [База знаний (wiki)](https://github.com/profcomff/general/wiki)
 * 📈 [Управление задачами](https://github.com/orgs/profcomff/projects/7) Viribus Team
 
