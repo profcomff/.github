@@ -11,7 +11,7 @@
 * [<img alt="Discord" height="14px" src="https://www.svgrepo.com/show/353655/discord-icon.svg"/>](https://discord.gg/W5jS3PfCjD) [Discord канал ИТ клуба](https://discord.gg/W5jS3PfCjD)
 * [<img alt="Figma" height="14px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"/>](https://to.profcomff.com/app-figma) [Figma Твой ФФ!](https://to.profcomff.com/app-figma)
 * 📖 [База знаний (wiki)](https://github.com/profcomff/general/wiki)
-* 📈 [Управление задачами](https://github.com/orgs/profcomff/projects/7) Твой ФФ!
+* 📈 [Управление задачами](https://github.com/orgs/profcomff/projects/7) Viribus Team
 
 
 ## Репозитории <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/profcomff?labelColor=%2300bd61&color=%2300bd61">
@@ -29,7 +29,7 @@
 
 
 [<img alt="Твой ФФ" width="25px" src="https://cdn.profcomff.com/app/menu_icons/printer.svg" />](https://to.profcomff.com/print)
-[Бесплатный принтер физфака](https://to.profcomff.com/print)
+[Бесплатный принтер Профкома](https://to.profcomff.com/print)
 
 [![](https://img.shields.io/github/stars/profcomff/print-webapp?color=yellow&label=print-webapp&logo=vuedotjs&logoColor=yellow&style=for-the-badge)](https://github.com/profcomff/print-webapp)
 [![](https://img.shields.io/github/stars/profcomff/print-winapp?color=red&label=print-winapp&logo=csharp&logoColor=red&style=for-the-badge)](https://github.com/profcomff/print-winapp)
