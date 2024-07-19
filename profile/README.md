@@ -34,7 +34,6 @@
 [![](https://img.shields.io/github/stars/profcomff/print-webapp?color=yellow&label=print-webapp&logo=vuedotjs&logoColor=yellow&style=for-the-badge)](https://github.com/profcomff/print-webapp)
 [![](https://img.shields.io/github/stars/profcomff/print-winapp?color=red&label=print-winapp&logo=csharp&logoColor=red&style=for-the-badge)](https://github.com/profcomff/print-winapp)
 [![](https://img.shields.io/github/stars/profcomff/print-api?color=green&label=print-api&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/print-api)
-[![](https://img.shields.io/github/stars/profcomff/converter-api?color=green&label=converter-api&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/converter-api)
 [![](https://img.shields.io/github/stars/profcomff/print-vkbot?color=green&label=print-vkbot&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/print-vkbot)
 [![](https://img.shields.io/github/stars/profcomff/print-tgbot?color=green&label=print-tgbot&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/print-tgbot)
 
@@ -44,6 +43,12 @@
 [![](https://img.shields.io/github/stars/profcomff/dwh-definitions?color=green&label=dwh-definitions&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/dwh-definitions)
 [![](https://img.shields.io/github/stars/profcomff/dwh-pipelines?color=green&label=dwh-pipelines&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/dwh-pipelines)
 [![](https://img.shields.io/github/stars/profcomff/dwh-airflow?color=black&label=dwh-airflow&logo=gnubash&logoColor=black&style=for-the-badge)](https://github.com/profcomff/dwh-airflow)
+
+
+#### Мини-приложения
+
+[![](https://img.shields.io/github/stars/profcomff/floormap-ui?color=yellow&label=floormap-ui&logo=vuedotjs&logoColor=yellow&style=for-the-badge)](https://github.com/profcomff/floormap-ui)
+[![](https://img.shields.io/github/stars/profcomff/calculator-ui?color=yellow&label=calculator-ui&logo=vuedotjs&logoColor=yellow&style=for-the-badge)](https://github.com/profcomff/calculator-ui)
 
 
 #### Библиотеки и компоненты
@@ -63,13 +68,9 @@
 [![](https://img.shields.io/github/stars/profcomff/redirect-ci?color=green&label=redirect-ci&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/redirect-ci)
 [![](https://img.shields.io/github/stars/profcomff/db-kafka?color=black&label=db-kafka&logo=gnubash&logoColor=black&style=for-the-badge)](https://github.com/profcomff/db-kafka)
 [![](https://img.shields.io/github/stars/profcomff/event-schema?color=green&label=event-schema&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/event-schema)
-[![](https://img.shields.io/github/stars/profcomff/cicd-api?color=green&label=cicd-api&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/cicd-api)
 [![](https://img.shields.io/github/stars/profcomff/fastapi-template?color=green&label=fastapi-template&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/fastapi-template)
 
 
 #### В начальной стадии разработки
 [![](https://img.shields.io/github/stars/profcomff/rating-api?color=green&label=rating-api&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/rating-api)
-[![](https://img.shields.io/github/stars/profcomff/marketing-uilib?color=yellow&label=marketing-uilib&logo=vuedotjs&logoColor=yellow&style=for-the-badge)](https://github.com/profcomff/marketing-uilib)
-[![](https://img.shields.io/github/stars/profcomff/user-uilib?color=blue&label=user-uilib&logo=typescript&logoColor=blue&style=for-the-badge)](https://github.com/profcomff/user-uilib)
-[![](https://img.shields.io/github/stars/profcomff/floormap-ui?color=yellow&label=floormap-ui&logo=vuedotjs&logoColor=yellow&style=for-the-badge)](https://github.com/profcomff/floormap-ui)
-[![](https://img.shields.io/github/stars/profcomff/calculator-ui?color=yellow&label=calculator-ui&logo=vuedotjs&logoColor=yellow&style=for-the-badge)](https://github.com/profcomff/calculator-ui)
+[![](https://img.shields.io/github/stars/profcomff/converter-api?color=green&label=converter-api&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/converter-api)
