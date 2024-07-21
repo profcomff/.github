@@ -68,6 +68,11 @@
 [![](https://img.shields.io/github/stars/profcomff/redirect-ci?color=green&label=redirect-ci&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/redirect-ci)
 [![](https://img.shields.io/github/stars/profcomff/db-kafka?color=black&label=db-kafka&logo=gnubash&logoColor=black&style=for-the-badge)](https://github.com/profcomff/db-kafka)
 [![](https://img.shields.io/github/stars/profcomff/event-schema?color=green&label=event-schema&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/event-schema)
+
+#### Шаблоны приложений
+
+[![](https://img.shields.io/github/stars/profcomff/app-template?color=blue&label=app-template&logo=AMP&logoColor=violet&style=for-the-badge)](https://github.com/profcomff/app-template)
+[![](https://img.shields.io/github/stars/profcomff/vuets-template?color=blue&label=vuets-template&logo=typescript&logoColor=blue&style=for-the-badge)](https://github.com/profcomff/vuets-template)
 [![](https://img.shields.io/github/stars/profcomff/fastapi-template?color=green&label=fastapi-template&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/fastapi-template)
 
 
