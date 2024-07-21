@@ -71,7 +71,7 @@
 
 #### Шаблоны приложений
 
-[![](https://img.shields.io/github/stars/profcomff/app-template?color=blue&label=app-template&logo=AMP&logoColor=violet&style=for-the-badge)](https://github.com/profcomff/app-template)
+[![](https://img.shields.io/github/stars/profcomff/app-template?color=violet&label=app-template&logo=AMP&logoColor=violet&style=for-the-badge)](https://github.com/profcomff/app-template)
 [![](https://img.shields.io/github/stars/profcomff/vuets-template?color=blue&label=vuets-template&logo=typescript&logoColor=blue&style=for-the-badge)](https://github.com/profcomff/vuets-template)
 [![](https://img.shields.io/github/stars/profcomff/fastapi-template?color=green&label=fastapi-template&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/fastapi-template)
 
