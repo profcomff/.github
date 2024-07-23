@@ -31,11 +31,12 @@
 [<img alt="Твой ФФ" width="25px" src="https://cdn.profcomff.com/app/menu_icons/printer.svg" />](https://to.profcomff.com/print)
 [Бесплатный принтер Профкома](https://to.profcomff.com/print)
 
-[![](https://img.shields.io/github/stars/profcomff/print-webapp?color=yellow&label=print-webapp&logo=vuedotjs&logoColor=yellow&style=for-the-badge)](https://github.com/profcomff/print-webapp)
+[![](https://img.shields.io/github/stars/profcomff/print-webapp?color=yellow&label=print-ui&logo=vuedotjs&logoColor=yellow&style=for-the-badge)](https://github.com/profcomff/print-webapp)
 [![](https://img.shields.io/github/stars/profcomff/print-winapp?color=red&label=print-winapp&logo=csharp&logoColor=red&style=for-the-badge)](https://github.com/profcomff/print-winapp)
 [![](https://img.shields.io/github/stars/profcomff/print-api?color=green&label=print-api&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/print-api)
 [![](https://img.shields.io/github/stars/profcomff/print-vkbot?color=green&label=print-vkbot&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/print-vkbot)
 [![](https://img.shields.io/github/stars/profcomff/print-tgbot?color=green&label=print-tgbot&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/print-tgbot)
+[![](https://img.shields.io/github/stars/profcomff/print-terminal-ui?color=green&label=print-terminal-ui&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/print-terminal-ui)
 
 
 #### Хранилище данных
