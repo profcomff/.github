@@ -36,7 +36,7 @@
 [![](https://img.shields.io/github/stars/profcomff/print-api?color=green&label=print-api&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/print-api)
 [![](https://img.shields.io/github/stars/profcomff/print-vkbot?color=green&label=print-vkbot&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/print-vkbot)
 [![](https://img.shields.io/github/stars/profcomff/print-tgbot?color=green&label=print-tgbot&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/print-tgbot)
-[![](https://img.shields.io/github/stars/profcomff/print-terminal-ui?color=green&label=print-terminal-ui&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/print-terminal-ui)
+[![](https://img.shields.io/github/stars/profcomff/print-terminal-ui?color=blue&label=print-terminal-ui&logo=typescript&logoColor=blue&style=for-the-badge)](https://github.com/profcomff/print-terminal-ui)
 
 
 #### Хранилище данных
