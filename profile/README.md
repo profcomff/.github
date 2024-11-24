@@ -81,4 +81,4 @@
 #### В начальной стадии разработки
 [![](https://img.shields.io/github/stars/profcomff/rating-api?color=green&label=rating-api&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/rating-api)
 [![](https://img.shields.io/github/stars/profcomff/converter-api?color=green&label=converter-api&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/converter-api)
-[![](https://img.shields.io/github/stars/profcomff/rating-ui?color=green&label=rating-ui&logo=typescript&logoColor=blue&style=for-the-badge)](https://github.com/profcomff/rating-ui)
+[![](https://img.shields.io/github/stars/profcomff/rating-ui?color=yellow&label=rating-ui&logo=vuedotjs&logoColor=yellow&style=for-the-badge)](https://github.com/profcomff/rating-ui)
