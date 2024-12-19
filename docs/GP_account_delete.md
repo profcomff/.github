@@ -15,7 +15,7 @@
 
 ## Прямая ссылка на удаление
 
-Вы также можете удалить свой аккаунт, перейдя по прямой ссылке: [https://app.profcomff.com/profile/delete-account](https://app.profcomff.com/profile/delete-account)
+Вы также можете удалить свой аккаунт, перейдя по <a href="https://app.profcomff.com/profile/delete-account" target="_blank">прямой ссылке</a>.
 
 ![image](https://github.com/user-attachments/assets/85de6136-05d4-4c8a-bfc5-d54da9ade41b)
 
