@@ -41,13 +41,27 @@
 
 🐈 Морозов Артем
 
+🐈 Ракова Ольга
+
+🐈 Батуев Илья
+
+🐈 Захаров Иван
+
+🐈 Еникеев Тимур
+
+🐈 Финютина Софья
+
+🐈 Кребздак Илья
+
+🐈 Сорочан Валентин
+
 ## Присоединяйся к команде разработчиков!
 
 Хочешь писать новые фичи, фиксить баги и шутить про упавшие сервера? Тогда ждем в нашем клубе айтишников, будем разрабатывать вместе ;)
 
 <div style="text-align: center;"><a href="https://t.me/+B4_C52J4UOZiNTAy" target="_blank"><img src="assets/viribus_unitis.svg" alt="drawing" width="180"/></a></div>
 
-<img src="assets/telegram.svg" alt="drawing" height="16px"/> <a href="https://t.me/+B4_C52J4UOZiNTAy" target="_blank">Наш чат разработчиков в телеграме</a>
+<img src="assets/telegram.svg" alt="drawing" height="16px"/> <a href="https://t.me/+B4_C52J4UOZiNTAy" target="_blank">Наше сообщество в Телеграмме</a>
 
 <img src="assets/github.svg" alt="drawing" height="16px"/> <a href="https://github.com/profcomff" target="_blank">Документация к приложению на github</a>
 
@@ -55,4 +69,4 @@
 
 <img src="assets/license.svg" alt="drawing" height="16px"/> <a href="https://github.com/profcomff/timetable-backend/blob/main/LICENSE" target="_blank">Лицензия</a>
 
-<img src="assets/vk.svg" alt="drawing" height="16px"/> <a href="https://vk.com/profcomff" target="_blank">Группа профкома ВК</a>
+<img src="assets/vk.svg" alt="drawing" height="16px"/> <a href="https://vk.com/profcomff" target="_blank">Группа Профкома ВК</a>
