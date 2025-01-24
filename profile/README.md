@@ -38,6 +38,13 @@
 [![](https://img.shields.io/github/stars/profcomff/print-tgbot?color=green&label=print-tgbot&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/print-tgbot)
 [![](https://img.shields.io/github/stars/profcomff/print-terminal-ui?color=blue&label=print-terminal-ui&logo=typescript&logoColor=blue&style=for-the-badge)](https://github.com/profcomff/print-terminal-ui)
 
+[<img alt="Твой ФФ" width="25px" src="https://cdn.profcomff.com/app/menu_icons/rating.svg" />](https://rating.profcomff.com)
+[Дубинушка](https://rating.profcomff.com)
+
+
+[![](https://img.shields.io/github/stars/profcomff/rating-api?color=green&label=rating-api&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/rating-api)
+[![](https://img.shields.io/github/stars/profcomff/rating-ui?color=yellow&label=rating-ui&logo=vuedotjs&logoColor=yellow&style=for-the-badge)](https://github.com/profcomff/rating-ui)
+
 
 #### Хранилище данных
 
@@ -79,6 +86,4 @@
 
 
 #### В начальной стадии разработки
-[![](https://img.shields.io/github/stars/profcomff/rating-api?color=green&label=rating-api&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/rating-api)
 [![](https://img.shields.io/github/stars/profcomff/converter-api?color=green&label=converter-api&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/converter-api)
-[![](https://img.shields.io/github/stars/profcomff/rating-ui?color=yellow&label=rating-ui&logo=vuedotjs&logoColor=yellow&style=for-the-badge)](https://github.com/profcomff/rating-ui)
