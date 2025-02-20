@@ -57,8 +57,6 @@
 
 [![](https://img.shields.io/github/stars/profcomff/floormap-ui?color=yellow&label=floormap-ui&logo=vuedotjs&logoColor=yellow&style=for-the-badge)](https://github.com/profcomff/floormap-ui)
 [![](https://img.shields.io/github/stars/profcomff/calculator-ui?color=yellow&label=calculator-ui&logo=vuedotjs&logoColor=yellow&style=for-the-badge)](https://github.com/profcomff/calculator-ui)
-[![](https://img.shields.io/github/stars/profcomff/rating-ui?color=yellow&label=rating-ui&logo=vuedotjs&logoColor=yellow&style=for-the-badge)](https://github.com/profcomff/rating-ui)
-
 
 #### Библиотеки и компоненты
 
