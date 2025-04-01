@@ -85,3 +85,4 @@
 
 #### В начальной стадии разработки
 [![](https://img.shields.io/github/stars/profcomff/converter-api?color=green&label=converter-api&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/converter-api)
+[![](https://img.shields.io/github/stars/profcomff/converter-api?color=green&label=rental-api&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/rental-api)
