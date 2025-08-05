@@ -49,6 +49,7 @@
 #### Хранилище данных
 
 [![](https://img.shields.io/github/stars/profcomff/dwh-definitions?color=green&label=dwh-definitions&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/dwh-definitions)
+[![](https://img.shields.io/github/stars/profcomff/definitions-lib?color=green&label=definitions-lib&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/definitions-lib)
 [![](https://img.shields.io/github/stars/profcomff/dwh-pipelines?color=green&label=dwh-pipelines&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/dwh-pipelines)
 [![](https://img.shields.io/github/stars/profcomff/dwh-airflow?color=black&label=dwh-airflow&logo=gnubash&logoColor=black&style=for-the-badge)](https://github.com/profcomff/dwh-airflow)
 
