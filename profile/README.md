@@ -45,6 +45,13 @@
 [![](https://img.shields.io/github/stars/profcomff/rating-api?color=green&label=rating-api&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/rating-api)
 [![](https://img.shields.io/github/stars/profcomff/rating-ui?color=yellow&label=rating-ui&logo=vuedotjs&logoColor=yellow&style=for-the-badge)](https://github.com/profcomff/rating-ui)
 
+[<img alt="Твой ФФ" width="25px" src="https://cdn.profcomff.com/app/menu_icons/rental.svg" />](https://rental.profcomff.com)
+[Цифровой прокат](https://rental.profcomff.com)
+
+
+[![](https://img.shields.io/github/stars/profcomff/converter-api?color=green&label=rental-api&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/rental-api)
+[![](https://img.shields.io/github/stars/profcomff/rating-ui?color=yellow&label=rental-ui&logo=vuedotjs&logoColor=yellow&style=for-the-badge)](https://github.com/profcomff/rental-ui)
+
 
 #### Хранилище данных
 
@@ -86,5 +93,4 @@
 
 #### В начальной стадии разработки
 [![](https://img.shields.io/github/stars/profcomff/converter-api?color=green&label=converter-api&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/converter-api)
-[![](https://img.shields.io/github/stars/profcomff/converter-api?color=green&label=rental-api&logo=python&logoColor=green&style=for-the-badge)](https://github.com/profcomff/rental-api)
-[![](https://img.shields.io/github/stars/profcomff/rating-ui?color=yellow&label=rental-ui&logo=vuedotjs&logoColor=yellow&style=for-the-badge)](https://github.com/profcomff/rental-ui)
+[![](https://img.shields.io/github/stars/profcomff/modal-service-api?style=for-the-badge&logo=python&logoColor=green&label=modal-service-api)](https://github.com/profcomff/modal-service-api)
